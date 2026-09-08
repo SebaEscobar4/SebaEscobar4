@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Sebastián Escobar 👋
 
-<!--
-**SebaEscobar4/SebaEscobar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software junior de Santiago, Chile. Me interesa construir aplicaciones web completas, con especial atención a la seguridad, la organización del código y la experiencia de usuario.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` · `Spring Boot` · `JavaScript` · `React` · `Node.js` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+## Proyecto destacado
+
+### [CompliSec](https://github.com/SebaEscobar4/CompliSec)
+
+Prototipo académico colaborativo para apoyar la gestión de riesgos, controles, evidencias y auditorías basadas en ISO/IEC 27001:2022. Integra un frontend en React, una API BFF en Node.js y una base de datos PostgreSQL, con ejecución mediante Docker y verificación continua en GitHub Actions.
+
+## En qué estoy trabajando
+
+- Fortaleciendo mis bases de desarrollo backend y frontend.
+- Mejorando pruebas, documentación y seguridad en mis proyectos.
+- Organizando este perfil para mostrar proyectos funcionales y su evolución real.
