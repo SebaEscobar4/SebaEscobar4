@@ -1,6 +1,6 @@
 # Hola, soy Sebastián Escobar 👋
 
-Desarrollador de software junior de Santiago, Chile. Me interesa construir aplicaciones web completas, con especial atención a la seguridad, la organización del código y la experiencia de usuario.
+Desarrollador de software junior de Santiago, Chile. Desarrollo aplicaciones web completas, con especial atención a la seguridad, la organización del código y la experiencia de usuario.
 
 ## Tecnologías
 
