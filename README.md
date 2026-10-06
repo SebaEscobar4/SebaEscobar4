@@ -17,3 +17,7 @@ Prototipo académico colaborativo para apoyar la gestión de riesgos, controles,
 - Fortaleciendo mis bases de desarrollo backend y frontend.
 - Mejorando pruebas, documentación y seguridad en mis proyectos.
 - Organizando este perfil para mostrar proyectos funcionales y su evolución real.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-escobar-gallegos-736315248/)
